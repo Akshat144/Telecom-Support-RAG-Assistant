@@ -320,14 +320,14 @@ st.markdown(
         }
 
         [data-testid="stChatInput"] button {
-            background: #f5c518 !important;
+            background: #f5c518;
             border-radius: 50% !important;
-            width: 32px !important;
-            height: 32px !important;
+            width: 30px !important;
+            height: 30px !important;
             min-width: 28px !important;
             min-height: 28px !important;
             flex-shrink: 0 !important;
-            margin: 0 !important;
+            margin-right: 0.3rem !important;
         }
 
         [data-testid="stChatInput"] button svg {
