@@ -303,8 +303,11 @@ st.markdown(
             color: #f2f2ef !important;
             padding: 0.85rem 1rem !important;
             flex: 1 !important;
+            font-size: 1.3rem !important;
             min-height: 44px !important;
-            font-size: 0.95rem !important;
+            resize: none !important;
+            line-height: 1.4 !important;
+          
         }
 
         [data-testid="stChatInput"] textarea:focus {
