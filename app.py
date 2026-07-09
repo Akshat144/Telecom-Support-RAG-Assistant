@@ -272,7 +272,7 @@ st.markdown(
 
         [data-testid="stChatInput"] {
             background: transparent !important;
-            width: 60% !important;
+            width: 100% !important;
             margin: 0 auto !important;
         }
 
